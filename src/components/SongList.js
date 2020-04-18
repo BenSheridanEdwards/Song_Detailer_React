@@ -10,7 +10,7 @@ class SongList extends React.Component {
           <div className="right floated content">
             <button className="ui button primary" 
               onClick={() => {this.props.selectSong(song)}}
-            >
+            >Select
             </button>
           </div>
           <div className="content">{song.title}</div>

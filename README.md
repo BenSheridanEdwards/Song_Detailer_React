@@ -15,7 +15,11 @@ As a user of Song Detailer.
 
 ## <a name="mockups">Mockups</a>
 
-Coming soon...
+![App Mockup](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Mockups/SongDetailer-MockupApp.png)
+
+![Component Mockup](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Mockups/SongDetailer-MockupComponents.png)
+
+![Redux Mockup](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Mockups/SongDetailer-MockupReduxStructure.png)
 
 <a name="app-showcase"><br /></a>
 

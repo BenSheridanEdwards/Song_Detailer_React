@@ -5,7 +5,7 @@ import SongDetail from './SongDetail';
 const App = () => {
   return (
     <div className="ui container segment grid">
-      <div className="ui row segment">
+      <div className="ui row">
         <div className="column eight wide">
           <SongList />
         </div>

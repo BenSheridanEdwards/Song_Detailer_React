@@ -23,7 +23,10 @@ Coming soon...
 
 ### Features
 
-Coming soon...
+- Set list of songs to choose from
+- Select a song and see details like the title, artist and duration
+
+![Application Screenrecording](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Showcase/SongDetailer-AppShowcase.gif)
 
 ## <a name="installation">Installation Instructions</a>
 
@@ -40,11 +43,6 @@ $ npm start
 
 Launching the app from the command line should open up a new tab in your default browser. If it doesn't, you can navigate to [http://localhost:3000](http://localhost:3000) to view the application.<br />
 
-### Additional Info
+### Credit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-

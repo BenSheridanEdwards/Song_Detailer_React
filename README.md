@@ -4,7 +4,11 @@
 
 ## <a name="description">Description</a>
 
-**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Webpack, Babel, Axios, CircleCI, Firebase*
+A simple app that displays a list of hard coded songs a user can choose from. Selecting a song reveals details like the song's title, artist, and duration. 
+
+**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
+
+You'll find the app [here](https://song-detailer-react.web.app/), use cmd/window + click to open in a new tab.
 
 ## <a name="user-stories">User Stories</a>
 

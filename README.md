@@ -13,8 +13,20 @@ You'll find the app [here](https://song-detailer-react.web.app/), use cmd/window
 ## <a name="user-stories">User Stories</a>
 
 ```
-As a user of Song Detailer.
-...
+As a user, when I use Song Detailer.
+I expect to see a list of songs to choose from. 
+```
+
+```
+As a user, when I use Song Detailer.
+I expect to be able to select a song using a select button, 
+and it's details to appear next to it. 
+```
+
+```
+As a user, when I use Song Detailer. 
+I expect to be able to change my selected song using a different select button, 
+and see the details display change to show me my new selected song's details.
 ```
 
 ## <a name="mockups">Mockups</a>

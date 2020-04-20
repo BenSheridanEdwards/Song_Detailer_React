@@ -10,20 +10,22 @@ const setup = (props={}, state=null) => {
   return wrapper
 }
 
+let wrapper 
+beforeAll(() => {
+  wrapper = setup()
+})
+
 it('renders App component without error', () => {
-  const wrapper = setup()
   const appComponent = findByTestAttr(wrapper, 'component-app')
   expect(appComponent.length).toBe(1)
 });
 
 it('renders the SongList component inside the App component', () => {
-  const wrapper = setup()
   const songListComponent = findByTestAttr(wrapper, 'component-song-list')
   expect(songListComponent.length).toBe(1)
 })
 
 it('renders the SongDetail component inside the App component', () => {
-  const wrapper = setup()
   const songDetailComponent = findByTestAttr(wrapper, 'component-song-detail')
   expect(songDetailComponent.length).toBe(1)
 })

@@ -10,7 +10,7 @@
 
 A simple app that displays a list of hard coded songs a user can choose from. Selecting a song reveals details like the song's title, artist, and duration. 
 
-**Tech Stack:** *JavaScript, React, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
+**Tech Stack:** *JavaScript, React, Redux, Node, CSS, HTML, Jest, Enzyme, Webpack, Babel, CircleCI, Code Climate, Firebase*
 
 You'll find the app [here](https://song-detailer-react.web.app/), use cmd/window + click to open in a new tab.
 

@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/927be19b769a8cc8fa03/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Song_Detailer_React/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/927be19b769a8cc8fa03/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Song_Detailer_React/test_coverage)
 
-[Description](#description) | [User Stories](#user-stories) | [Mockups](#mockups) | [Application Showcase](#app-showcase) | [Installation Instructions](#installation) | [Credits](#credits)
+[Description](#description) | [User Stories](#user-stories) | [Mockups](#mockups) | [App Showcase](#app-showcase) | [Features](#features) | [Improvements](#improvements) | [Installation Instructions](#installation) | [Credits](#credits)
 
 ## <a name="description">Description</a>
 
@@ -41,16 +41,23 @@ and see the details display change to show me my new selected song's details.
 
 ![Redux Mockup](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Mockups/SongDetailer-MockupReduxStructure.png)
 
-<a name="app-showcase"><br /></a>
+## <a name="app-showcase">App Showcase</a>
 
-## Application Showcase
+![App Screenrecording](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Showcase/SongDetailer-AppShowcase.gif)
 
-### Features
+### <a name="features">Features</a>
 
 - Set list of songs to choose from
 - Select a song and see details like the title, artist and duration
 
-![Application Screenrecording](https://github.com/BenSheridanEdwards/Song_Detailer_React/blob/master/media/Showcase/SongDetailer-AppShowcase.gif)
+### <a name="improvements">Improvements</a>
+
+- 100% Test Coverage
+  - Learn how to test redux
+  - Learn how to test events
+  - Learn how to test with snapshots
+- Add styling
+- Rebuild the app from scratch using TDD
 
 ## <a name="installation">Installation Instructions</a>
 
@@ -60,7 +67,7 @@ $ git clone git@github.com:BenSheridanEdwards/Song_Detailer_React.git
 $ cd Song_Detailer_React
 ```
 
-### Launching the Application
+### Launching the App from the Command Line
 
 From inside the React project, you can run `npm start` in the terminal to launch the app in the browser.
 

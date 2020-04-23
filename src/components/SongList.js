@@ -10,6 +10,7 @@ class SongList extends React.Component {
         <div className="item" key={song.title}>
           <div className="right floated content">
             <button className="ui button primary" 
+              data-test="select-button" 
               onClick={() => {this.props.selectSong(song)}}
             >
             Select
@@ -22,7 +23,7 @@ class SongList extends React.Component {
   }
 
   render () {
-    return <div className="ui segment padded divided list">{this.renderList()}</div>;
+    return <div className="ui segment padded divided list" data-test="component-song-list">{this.renderList()}</div>;
   }
 }
 

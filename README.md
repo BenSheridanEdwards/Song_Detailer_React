@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/BenSheridanEdwards/Song_Detailer_React.svg?style=svg)](https://circleci.com/gh/BenSheridanEdwards/Song_Detailer_React)
 [![Maintainability](https://api.codeclimate.com/v1/badges/927be19b769a8cc8fa03/maintainability)](https://codeclimate.com/github/BenSheridanEdwards/Song_Detailer_React/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/32d8f217be4f246461fa/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Click_Counter_React/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/927be19b769a8cc8fa03/test_coverage)](https://codeclimate.com/github/BenSheridanEdwards/Song_Detailer_React/test_coverage)
 
 [Description](#description) | [User Stories](#user-stories) | [Mockups](#mockups) | [App Showcase](#app-showcase) | [Features](#features) | [Improvements](#improvements) | [Installation Instructions](#installation) | [Credits](#credits)
 
@@ -52,10 +52,6 @@ and see the details display change to show me my new selected song's details.
 
 ### <a name="improvements">Improvements</a>
 
-- 100% Test Coverage
-  - Learn how to test redux
-  - Learn how to test events
-  - Learn how to test with snapshots
 - Add styling
 - Rebuild the app from scratch using TDD
 
